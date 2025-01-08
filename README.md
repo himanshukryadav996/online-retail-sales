@@ -11,8 +11,8 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 <hr>
 
  Page 1: Sales Trends and Top Performers 
+ <div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/s4150/Untitled_page-0001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2400" data-original-width="4150" height="392" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/w640-h392/Untitled_page-0001.jpg" width="640" /></a></div><strong><br /></strong></div>
 
-![Sales Trends Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94weNfenqDEuzYIKX8ZgFXkhTdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloIpashIKRljuijPQpndC/s4150/Untitled_page-0001.jpg)
 
 1. Sales Trend Analysis:
     Visualized the overall sales trend over time using line charts.
@@ -30,8 +30,7 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 <hr>
 
  Page 2: Geographic Insights with Bubble Map
-
-![Geographic Insights Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmXE30l2d97bud2g00cl5gQgaizJWOYYeW6BpjCCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZKUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/summary_by_map.jpg)
+<div><strong><br /></strong></div><div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/Untitled_page-0002.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="powerbi Dashboard" border="0" data-original-height="2400" data-original-width="4150" height="370" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/w640-h370/Untitled_page-0002.jpg" title="PowerBi Dashboard" width="640" /></a></div><br /><strong><br /></strong></div>
 
 1. Geographic Distribution:
     Created a world map with countrywise bubbles proportional to sales.
