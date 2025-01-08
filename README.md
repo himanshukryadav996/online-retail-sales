@@ -12,7 +12,7 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 
  Page 1: Sales Trends and Top Performers 
 
-![Sales Trends Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94weNfenqDEuzYIKX8ZgFXkhTdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloIpashIKRljuijPQpndC/s4150/summary_by_charts.jpg)
+![Sales Trends Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94weNfenqDEuzYIKX8ZgFXkhTdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloIpashIKRljuijPQpndC/s4150/Untitled_page-0001.jpg)
 
 1. Sales Trend Analysis:
     Visualized the overall sales trend over time using line charts.
