@@ -12,7 +12,7 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 
  Page 1: Sales Trends and Top Performers 
 
-![Sales Trends Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94weNfenqDEuzYIKX8ZgFXkhTdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloIpashIKRljuijPQpndC/s4150/Untitled_page0001.jpg)
+![Sales Trends Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94weNfenqDEuzYIKX8ZgFXkhTdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloIpashIKRljuijPQpndC/s4150/summary_by_charts.jpg)
 
 1. Sales Trend Analysis:
     Visualized the overall sales trend over time using line charts.
@@ -31,7 +31,7 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 
  Page 2: Geographic Insights with Bubble Map
 
-![Geographic Insights Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmXE30l2d97bud2g00cl5gQgaizJWOYYeW6BpjCCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZKUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/Untitled_page0002.jpg)
+![Geographic Insights Dashboard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmXE30l2d97bud2g00cl5gQgaizJWOYYeW6BpjCCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZKUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/summary_by_map.jpg)
 
 1. Geographic Distribution:
     Created a world map with countrywise bubbles proportional to sales.
